@@ -9,4 +9,4 @@ Conversion of the time series values to 2-D stock bar chart images and predictio
 3. Run cnn.py with training.csv and test.csv, and create cnn_result file with prediction, price and ground-truth data.
 4. Evalute with evaluateFinancial.java
 
-Details are announced later..
+Details will be announced later..
