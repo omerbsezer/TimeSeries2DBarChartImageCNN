@@ -13,3 +13,7 @@ Details will be announced later..
 
 What is Convolutional Neural Network (CNN)? (General Information):
 https://en.wikipedia.org/wiki/Convolutional_neural_network
+
+Keras: https://keras.io/
+
+Tensorflow: https://www.tensorflow.org/
